@@ -1,0 +1,13 @@
+name: finalksoto
+title: finalksoto
+username:
+account: ksoto
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5787652
+bundleId: 5646655
+url: https://ksoto.shinyapps.io/finalksoto/
+when: 1646497609.3137
+lastSyncTime: 1646497609.3137
+asMultiple: FALSE
+asStatic: FALSE
